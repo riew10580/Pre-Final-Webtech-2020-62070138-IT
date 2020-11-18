@@ -7,4 +7,11 @@
 .col-4{
     margin-top: 3em;
     margin-bottom: 3em;
+    
+}
+body{
+    background-color: antiquewhite;
+}
+.card-body{
+    background-color: snow;
 }
